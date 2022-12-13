@@ -1,0 +1,171 @@
+body {
+    text-align: center;
+    background-image: url(../images/chapter17/dark-wood.jpg);
+    background-position: center;
+    font-family: Georgia, Times, serif;
+    line-height: 1.4em;
+color: #666666;
+}
+
+header img {
+    width: 100%;
+}
+
+body .wrapper {
+    background-color: #fff;
+    width: 940px;
+    margin: 22 auto;
+}
+
+nav {
+    background-color: #aeaca8;
+    width: 100%;
+    margin: 0 auto;
+}
+
+nav p {
+    text-align: left;
+    margin-top: 0;
+    padding: 4 10;
+    margin-bottom: 0;
+}
+
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    display: inline;
+    padding: 0 20;
+}
+
+.content {
+    background-color: #fff;
+    margin-top: 0;
+    padding: 10 10;
+    /*height: 700px;*/
+}
+
+div.headings {
+    float: left;
+    text-align: left;
+    padding-top: 8;
+}
+
+article {
+    margin-top: 10;
+    height: 225px;
+}
+
+.blog-2 {
+    clear: left;
+    margin-top: 40px;
+}
+
+figure {
+    width: 290px;
+    height: 220px;
+    border: 1px solid #eeeeee;
+    padding: 5;
+    float: left;
+    margin: 0;
+    text-align: left;
+
+}
+
+figure figcaption {
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    font-size: 80%;
+text-indent: -5;
+}
+
+figure figcaption {
+    margin: 0;
+    letter-spacing: 0.06em;
+    padding-top: 5;
+    text-transform: capitalize;
+}
+
+figcaption p {
+    padding: 0;
+    margin: 0;
+    padding-left: 5;
+}
+
+hgroup {
+    text-align: left;
+    margin: 0 10;
+}
+
+/*hgroup h2{ margin-top: 0;}*/
+hgroup h3 {
+    color: #de6581;
+    margin: 0;
+    padding: 3 4 4 10;
+}
+
+hgroup h2 {
+    color: #666666;
+    margin: 5 0 0 5;
+    padding: 5 2 2 5;
+}
+
+h1,
+h2,
+h3 {
+    font-weight: normal;
+}
+
+article .description {
+    margin: 5 10;
+    padding: 5 0 5 10;
+}
+
+.content {
+    float: left;
+    margin-left: 10;
+    border-right: 1px solid #eeeeee;
+    padding-right: 0;
+margin-bottom: 10;
+}
+
+aside {
+    background-color: #fff;
+    float: left;
+}
+
+aside section {
+    text-align: left;
+    margin-top: 40;
+}
+
+aside section a {
+    color: #de6581;
+    border-bottom: 1px solid #eeeeee;
+    text-decoration: none;
+    display: block;
+    margin: 5;
+    padding: 8 5;
+    padding-left: 20;
+}
+.contact-details{padding-top: 0;}
+.contact-details p{
+    padding: 10 20;
+}
+aside section h2 {
+    color: #de6581;
+padding-left: 15;
+}
+
+footer {
+    background-color: #aeaca8;
+    clear: both;
+    height: 30px;
+    text-align: left;
+    color: #fff;
+    font-size: 80%;
+    padding-left: 20;
+    padding-top: 10;
+    margin: 20 0;
+}

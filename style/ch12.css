@@ -1,0 +1,50 @@
+body {
+    padding: 30px;
+    padding: 30px;
+}
+
+.title {
+    color: #0088dd;
+    margin-bottom: 0;
+    font-size: 250%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: normal;
+}
+
+h2 {
+    letter-spacing: 2;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 90%;
+    color: #0088dd;
+    margin-top: 10;
+    font-family: 'Gill Sans', Arial, sans-serif;
+}
+
+#description {
+    font-weight: bold;
+}
+
+span {
+    color: #0088dd;
+}
+
+p {
+    font-family: Arial, Verdana, sans-serif;
+line-height: 1.4em;
+}
+
+h3 {
+    color: #0088dd;
+font-size: 150%;
+font-weight: normal;
+}
+
+#author {
+    text-align: right;
+    font-style: italic;
+    border-image: url(img8.jpeg) 10 10 10 10 stretch;
+    -moz-border-image: url(style/img8.jpeg) 10,10,10,10 stretch;
+    -webkit-border-image: url(img8.jpeg) 10 10 10 10 stretch;
+
+}

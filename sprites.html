@@ -1,0 +1,45 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+a {background: #ffffdd url(images/chapter16/button-sprite.jpg);
+    text-indent: -300px;
+    height: 36px;
+    display:inline-block;
+    
+}
+a#b1{width: 174px; 
+    background-position: 0 0;
+}
+a#b2{
+    width: 206px;
+    background-position: -180 0;
+}
+
+a#b1:hover{
+    background-position: 0 -39;
+}
+a#b2:hover{
+    background-position: -180 -39;
+}
+a#b1:active{
+    background-position: 0 -76;
+}
+a#b2:active{
+    background-position: -180 -76;
+}
+
+
+
+
+</style>
+</head>
+<body>
+    <a href="https://www.google.com" class="button" id="b1">add to cart</a>
+    <a href="https://www.youtube.com/" class="button" id="b2"> add to cart</a>
+
+</body>
+</html>
